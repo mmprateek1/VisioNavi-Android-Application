@@ -1,6 +1,12 @@
 # VisioNavi Android App
 
+![WhatsApp Image 2025-08-31 at 13 56 42_c28572b8](https://github.com/user-attachments/assets/0577a911-7df4-4613-bf73-eb9753e85b0e)
+
+
 VisioNavi is an Android application designed to assist visually impaired users with real-time navigation and environmental awareness. Part of the Real-Time Monocular Vision Object Detection and Navigational Assistance System (RT-MVODNAS), it leverages computer vision and AI to provide object detection, depth estimation, face analysis, and navigational guidance using standard smartphone hardware.
+
+![WhatsApp Image 2025-08-31 at 13 56 41_7090f8f5](https://github.com/user-attachments/assets/88386d09-d71b-41c3-9025-b2e5ea4e9588)
+
 
 ## Features
 - **Real-Time Object Detection:** Identifies objects using YOLOv5 via TensorFlow Lite.
